@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
+    "@ts-safeql/sql-tag": "^0.2.1",
     "@types/node": "^22.10.2",
     "@types/pg": "^8.11.10",
     "dotenv-cli": "^7.4.4",
